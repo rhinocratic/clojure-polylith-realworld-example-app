@@ -27,6 +27,13 @@ test.db
 
 # clojure-lsp
 .lsp/sqlite*.db
+.lsp/.cache
 
 # Calva VS Code extension
 .calva/output-window/output.calva-repl
+
+# clj-kondo
+.clj-kondo/.cache
+
+# Portal
+.portal
